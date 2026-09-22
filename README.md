@@ -44,8 +44,8 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 
 Noms des étudiants : 
 * Jennifer PIGNOL
-* Boris STOCKER  
-* Boris STOCKER  
+* Kingston PERRAN--MONTOUT  
+* Maëlle LOUIS-ALEXIS
 
 Date du jour : 20/11/2025
 
